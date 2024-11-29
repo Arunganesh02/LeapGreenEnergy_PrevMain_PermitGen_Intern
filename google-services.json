@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400370866534",
+    "project_id": "schedulemaintenanceapp",
+    "storage_bucket": "schedulemaintenanceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400370866534:android:ef72c2280f3f58b3df10a7",
+        "android_client_info": {
+          "package_name": "com.leapgreen.schedulemaintenanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpnv-TPQWvzdNfGROzFkaWo4IF_vzmS9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

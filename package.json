@@ -1,0 +1,36 @@
+{
+  "name": "schedulemaintenanceapp",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-native-community/checkbox": "^0.5.17",
+    "@react-native-picker/picker": "2.9.0",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/stack": "^6.4.1",
+    "expo": "^52.0.11",
+    "expo-checkbox": "~4.0.0",
+    "expo-image-picker": "~16.0.3",
+    "expo-print": "~14.0.2",
+    "expo-sharing": "~13.0.0",
+    "expo-status-bar": "~2.0.0",
+    "firebase": "^10.12.5",
+    "react": "18.3.1",
+    "react-native": "0.76.3",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-keyboard-aware-view": "^0.0.14",
+    "react-native-safe-area-context": "4.12.0",
+    "react-native-screens": "~4.1.0",
+    "schedulemaintenanceapp": "file:"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
