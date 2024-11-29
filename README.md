@@ -11,9 +11,7 @@ This app was created by **PSG Institute of Technology and Applied Research Stude
 3. [Tech Stack](#tech-stack)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Future Enhancements](#future-enhancements)
-8. [Contributors](#contributors)
+6. [Contributors](#contributors)
 
 ---
 
@@ -71,25 +69,27 @@ The app is built with a focus on **scalability**, **usability**, and **performan
    ```bash
    git clone https://github.com/Arunganesh02/LeapGreenEnergy_PrevMain_PermitGen_Intern.git
    cd LeapGreenEnergy_PrevMain_PermitGen_Intern
-2.Install dependencies:
+2. Install dependencies:
 npm install
 
-3.Start the Expo development server:
+3. Start the Expo development server:
 npm start
 
-4.run the app:
+4. run the app:
 Use Expo Go (iOS/Android) to scan the QR code.
 
 ## Usage
-1.Log in to the app (if authentication is required).
-2.Navigate to the Section Overview Screen.
-3.Select a section to view the checklist.
-4.Update statuses and remarks as needed.
-5.All changes are saved to Firebase Firestore automatically.
+1. Log in to the app (if authentication is required).
+2. Navigate to the Section Overview Screen.
+3. Select a section to view the checklist.
+4. Update statuses and remarks as needed.
+5. All changes are saved to Firebase Firestore automatically.
 
-## Contributors (in alphabetical order)
+## Contributors
 
-1.Arun Ganesh B
-2.Kaviya
-3.Pavithran G
-4.Preethika
+(in alphabetical order)
+
+1. Arun Ganesh B
+2. Kaviya
+3. Pavithran G
+4. Preethika
