@@ -12,7 +12,7 @@ This app was created by **PSG Institute of Technology and Applied Research Stude
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contributors](#contributors)
-
+7. [Contact_Us](#contact_us)
 ---
 
 ## **Overview**
@@ -93,3 +93,13 @@ Use Expo Go (iOS/Android) to scan the QR code.
 2. Kaviya
 3. Pavithran G
 4. Preethika
+
+## Contact_Us
+
+If you have any questions, suggestions, or issues with the project, feel free to reach out.
+
+- **Email:** [arunganesh021204@gmail.com](mailto:arunganesh021204@gmail.com)
+- **GitHub:** [https://github.com/Arunganesh02](https://github.com/Arunganesh02)
+- **LinkedIn:** [arunganesh02](https://www.linkedin.com/in/arun-ganesh-809537243/)
+
+We will try to respond as soon as possible.
