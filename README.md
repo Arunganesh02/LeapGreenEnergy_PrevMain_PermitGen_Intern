@@ -2,7 +2,7 @@
 
 A **React Native** application designed for **preventive maintenance and checklist of windmills**, developed during an internship at Leap Green Industries. The app enables employees to efficiently track maintenance tasks, adhere to safety protocols, and document component changes.
 
-This app was created by **PSG Institute of Technology and Applied Research Students** . Given by the company **LeapGreenEnergy** we take responsibility for the Project code
+This app was created by Students of **PSG Institute of Technology and Applied Research** . Given by the company **LeapGreenEnergy** we take responsibility for the Project code
 ---
 
 ## **Table of Contents**
