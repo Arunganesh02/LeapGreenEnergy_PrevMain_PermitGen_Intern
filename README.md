@@ -27,24 +27,13 @@ The app is built with a focus on **scalability**, **usability**, and **performan
 ---
 
 ## **Features**
-1. **Section Overview Screen:**
-   - Displays sections like:
-     - Safety Rules (Nacelle)
-     - General Rules at Service Check (Nacelle)
-   - Lists checklists for each section.
-
-2. **Checklist Screen:**
-   - Allows employees to:
-     - Mark status.
-     - Add remarks and updated remarks.
-   - Syncs all data to **Firebase Firestore**.
-
-3. **Checklist Management:**
-   - Tracks progress for maintenance tasks.
-   - Displays a tick mark when a section is completed.
-
-4. **User-Friendly Interface:**
-   - Built with **React Native Expo** for a seamless cross-platform experience.
+1. **Permit Generation**
+2. **Permit Selection**
+3. **Permit approval and rejection**
+4. **Section Overview Screen:**
+5. **Checklist Screen:**
+6. **Checklist Management:**
+7. **User-Friendly Interface:**
 
 ---
 
