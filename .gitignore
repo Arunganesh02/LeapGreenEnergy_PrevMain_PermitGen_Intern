@@ -33,3 +33,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+
+Email_verification_backend/serviceAccountKey.json
