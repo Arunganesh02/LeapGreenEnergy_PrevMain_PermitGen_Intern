@@ -78,10 +78,10 @@ Use Expo Go (iOS/Android) to scan the QR code.
 
 (in alphabetical order)
 
-1. Arun Ganesh B
-2. Kaviya
-3. Pavithran G
-4. Preethika
+1. Arun Ganesh B [Linkedin](https://www.linkedin.com/in/arun-ganesh-809537243/)
+2. Kaviya [Linkedin](https://www.linkedin.com/in/kaviya-kanakaraj/)
+3. Pavithran G [Linkedin](https://www.linkedin.com/in/pavithran29/)
+4. Preethika [Linkedin]
 
 ## Contact_Us
 
