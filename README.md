@@ -81,7 +81,7 @@ Use Expo Go (iOS/Android) to scan the QR code.
 1. Arun Ganesh B [Linkedin](https://www.linkedin.com/in/arun-ganesh-809537243/)
 2. Kaviya [Linkedin](https://www.linkedin.com/in/kaviya-kanakaraj/)
 3. Pavithran G [Linkedin](https://www.linkedin.com/in/pavithran29/)
-4. Preethika [Linkedin]
+4. Prethika R [Linkedin](https://www.linkedin.com/in/prethika-r-5363a2255/)
 
 ## Contact_Us
 
